@@ -3,6 +3,7 @@ reverse_eng/
 build/
 coverage/
 garbage/
+venv/
 
 .DS_Store
 *.csv
